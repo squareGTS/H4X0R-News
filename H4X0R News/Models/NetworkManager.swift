@@ -33,6 +33,3 @@ class NetworkManager: ObservableObject {
         }
     }
 }
-
-
-
